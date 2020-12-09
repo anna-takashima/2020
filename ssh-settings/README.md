@@ -1,6 +1,6 @@
 #SSH 接続公開キー認証方式設定のメモ
 
-last-update 2020-12-09
+last-update 2020-12-09  
 WT
 
 ```
